@@ -1,0 +1,15 @@
+name: service_area_mapping
+channels:
+  - defaults
+  - plotly
+  - conda-forge
+dependencies:
+- python>=3.8
+- pytest
+- pandas
+- plotly
+- pyshp
+- plotly-geo
+- python-kaleido
+- geopandas
+- ipykernel
